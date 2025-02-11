@@ -59,7 +59,7 @@ This dataset is suitable for:
 Please ensure to use this dataset for educational and research purposes. For any commercial use, proper attribution or permission may be required.
 
 ## Contact
-For any questions or clarifications regarding the dataset, please contact the dataset provider or the project supervisor.
+Feel free to use this dataset, or fork it to contribute.
 
 **_Created By_**: William Josue Okwale Mayoukou
 
